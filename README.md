@@ -467,6 +467,7 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
   - [Substrate](https://github.com/paritytech/substrate) <img src="https://img.shields.io/github/stars/paritytech/substrate?style=social"/> : Substrate: The platform for blockchain innovators.
 
+  - [RustChain](https://github.com/Scottcjn/RustChain) <img src="https://img.shields.io/github/stars/Scottcjn/RustChain?style=social"/> : Proof-of-Antiquity blockchain where vintage hardware earns higher mining rewards. Built in Rust with Ed25519 consensus and GPU hardware attestation. [rustchain.org](https://rustchain.org/)
   - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/)
 
   - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain.
